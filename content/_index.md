@@ -1,13 +1,8 @@
 ---
-title: "Welcome to Doks"
-description: ""
-lead: "Congrats on setting up a new Doks project!"
-date: 2023-09-07T16:33:54+02:00
-lastmod: 2023-09-07T16:33:54+02:00
+title: "PaperDebugger"
+description: "Your AI assistant for writing better academic papers"
+lead: "Your AI assistant for writing better academic papers"
+date: 2025-03-01
+lastmod: 2025-03-01
 draft: false
-seo:
-  title: "Welcome to Doks" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  robots: "" # custom robot tags (optional)
 ---

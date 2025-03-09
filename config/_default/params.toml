@@ -1,6 +1,6 @@
 # Hugo
-title = "My Docs"
-description = "Congrats on setting up a new Doks project!"
+title = "PaperDebugger"
+description = "Your AI assistant for writing better academic papers"
 images = ["cover.png"]
 
 # mainSections

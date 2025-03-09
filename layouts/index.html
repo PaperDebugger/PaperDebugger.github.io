@@ -6,7 +6,9 @@
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
       <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="/docs/{{ if site.Params.doks.docsVersioning }}{{ site.Params.doks.docsVersion }}/{{ end }}guides/example-guide/" role="button">{{ i18n "get_started" }}</a>
+      <a class="btn btn-primary btn-cta rounded-pill btn-lg my-3" href="#" role="button">
+        Get Chrome Extension
+      </a>
       {{ .Content }}
     </div>
   </div>
@@ -24,21 +26,20 @@
     <div class="container">
       <div class="row justify-content-center text-center">
         <div class="col-lg-5">
-          <h2 class="h4">Update content</h2>
-          <p>Edit <code>content/_index.md</code> to see this page change.</p>
+          <h2 class="h4">Work with Overleaf</h2>
+          <p>PaperDebugger makes your Overleaf smarter with a Chrome extension.</p>
         </div>
         <div class="col-lg-5">
-          <h2 class="h4">Add new content</h2>
-          <p>Add Markdown files to <code>content</code> to create new pages.</p>
+          <h2 class="h4">Never lose your ideas</h2>
+          <p>Your data will be stored on Overleaf server and PaperDebugger will never touch it without your permission.</p>
         </div>
         <div class="col-lg-5">
-          <h2 class="h4">Configure your site</h2>
-          <p>Edit your config in <code>config/_default/params.toml</code>.</p>
+          <h2 class="h4">Deliver faster and better papers</h2>
+          <p>PaperDebugger will help you write faster and better papers with AI.</p>
         </div>
-        <div class="col-lg-5">
-          <h2 class="h4">Read the docs</h2>
-          <p>Learn more in the <a href="https://getdoks.org/">Docs</a>.</p>
-        </div>
+      </div>
+      <div class="d-flex flex-row justify-content-center mt-4">
+        <img src="image/home.png" alt="PaperDebugger" class="img-fluid rounded-3">
       </div>
     </div>
   </section>
