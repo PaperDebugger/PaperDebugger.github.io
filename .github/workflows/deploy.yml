@@ -49,12 +49,16 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
+
+      - name: Install pnpm
+        run: npm install -g pnpm
+      - name: Install dependencies
+        run: pnpm install
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-      - name: Install dependencies
-        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      
       - name: Build production website
         env:
           # For maximum backward compatibility with Hugo modules
@@ -62,7 +66,7 @@ jobs:
           HUGO_ENV: production
           TZ: America/Los_Angeles
         run: |
-          npm run build \
+          pnpm run build \
             -- \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
