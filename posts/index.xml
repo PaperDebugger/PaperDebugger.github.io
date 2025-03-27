@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on PaperDebugger</title><link>/posts/</link><description>PaperDebugger (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>privacy@paperdebugger.com
+(PaperDebugger)</managingEditor><lastBuildDate>Sat, 22 Mar 2025 16:49:00 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>v1.2.6 Conversaion History</title><link>/posts/1.26/</link><pubDate>Sat, 22 Mar 2025 16:49:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/1.26/</guid><description>&lt;p>&lt;strong>feat:&lt;/strong> implement conversation api&lt;/p>
+&lt;p>&lt;strong>feat:&lt;/strong> conversation history&lt;/p>
+&lt;p>&lt;strong>fix:&lt;/strong> handle failed in google auth, fix the short toast time&lt;/p>
+&lt;p>&lt;a href="https://github.com/PaperDebugger/overleaf/actions/runs/14007027530/artifacts/2800610409">Download&lt;/a>&lt;/p></description></item></channel></rss>
