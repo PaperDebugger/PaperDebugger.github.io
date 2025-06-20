@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Release on PaperDebugger</title><link>/tags/release/</link><description>PaperDebugger (Release)</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>privacy@paperdebugger.com
-(PaperDebugger)</managingEditor><lastBuildDate>Mon, 14 Apr 2025 12:00:00 +0800</lastBuildDate><atom:link href="/tags/release/index.xml" rel="self" type="application/rss+xml"/><item><title>v1.3 Prompt Library</title><link>/posts/1.3/</link><pubDate>Mon, 14 Apr 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/1.3/</guid><description>&lt;p>&lt;strong>feat:&lt;/strong> prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/94">@imwithye #94&lt;/a> &lt;a href="https://github.com/PaperDebugger/overleaf/pull/97">#97&lt;/a>&lt;/p>
+(PaperDebugger)</managingEditor><lastBuildDate>Sun, 15 Jun 2025 12:00:00 +0800</lastBuildDate><atom:link href="/tags/release/index.xml" rel="self" type="application/rss+xml"/><item><title>v2.0 Paper Score</title><link>/posts/2.0/</link><pubDate>Sun, 15 Jun 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.0/</guid><description>&lt;video width="100%" controls poster="/posts/2.0/preview.png">
+&lt;source src="https://www.paperdebugger.com/posts/2.0/preview.mp4" type="video/mp4">
+Your browser does not support the video tag.
+&lt;/video>
+&lt;p>&lt;strong>feat&lt;/strong>: PaperScore Infra &lt;a href="https://github.com/PaperDebugger/overleaf/pull/129">@imwithye #129&lt;/a>&lt;/p>
+&lt;p>&lt;strong>feat&lt;/strong>: Streaming API + LLM Function Call &lt;a href="https://github.com/PaperDebugger/overleaf/pull/146">@Junyi-99 #146&lt;/a>&lt;/p>
+&lt;p>&lt;strong>feat&lt;/strong>: Safari Support &lt;a href="https://github.com/PaperDebugger/overleaf/pull/157/commits/8413974b5bec71636cd485cfd5a1b3289934bf63">@Junyi-99 #157&lt;/a>&lt;/p>
+&lt;p>&lt;strong>change&lt;/strong>: New UI/UX Design &lt;a href="https://github.com/PaperDebugger/overleaf/pull/162">@Junyi-99 #162&lt;/a>&lt;/p>
+&lt;hr>
+&lt;p>&lt;strong>feat&lt;/strong>: OAuth2.0 Login Support &lt;a href="https://github.com/PaperDebugger/overleaf/pull/152">@Junyi-99 #152&lt;/a>&lt;/p>
+&lt;p>&lt;strong>feat&lt;/strong>: Code Quality Ensurance &lt;a href="https://github.com/PaperDebugger/overleaf/pull/150">@Junyi-99 #146-150&lt;/a>&lt;/p>
+&lt;p>&lt;strong>feat&lt;/strong>: Safari CI/CD &lt;a href="https://github.com/PaperDebugger/overleaf/pull/162">@Junyi-99 #162&lt;/a>&lt;/p>
+&lt;p>&lt;strong>fix&lt;/strong>: Minor Fixes &lt;a href="https://github.com/PaperDebugger/overleaf/pull/161">@Junyi-99 #161&lt;/a>&lt;/p></description></item><item><title>v1.3 Prompt Library</title><link>/posts/1.3/</link><pubDate>Mon, 14 Apr 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/1.3/</guid><description>&lt;p>&lt;strong>feat:&lt;/strong> prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/94">@imwithye #94&lt;/a> &lt;a href="https://github.com/PaperDebugger/overleaf/pull/97">#97&lt;/a>&lt;/p>
 &lt;p>&lt;strong>feat:&lt;/strong> prompt actions in the InputArea &lt;a href="https://github.com/PaperDebugger/overleaf/pull/95">@imwithye #95&lt;/a>&lt;/p>
 &lt;p>&lt;strong>feat:&lt;/strong> model selection in chat &lt;a href="https://github.com/PaperDebugger/overleaf/pull/92">@Bcpeh #92&lt;/a>&lt;/p>
 &lt;img src="https://www.paperdebugger.com/posts/1.3/image.png" alt="image" style="width: 50%" />
