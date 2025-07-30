@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on PaperDebugger</title><link>/posts/</link><description>PaperDebugger (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>privacy@paperdebugger.com
-(PaperDebugger)</managingEditor><lastBuildDate>Sun, 15 Jun 2025 12:00:00 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>v2.0 Paper Score</title><link>/posts/2.0/</link><pubDate>Sun, 15 Jun 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.0/</guid><description>&lt;video width="100%" controls poster="/posts/2.0/preview.png">
+(PaperDebugger)</managingEditor><lastBuildDate>Wed, 30 Jul 2025 12:00:00 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>v2.7.4 Minor Fixes</title><link>/posts/2.7.4/</link><pubDate>Wed, 30 Jul 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.7.4/</guid><description>&lt;p>&lt;strong>feat:&lt;/strong> &amp;ldquo;always minimal mode&amp;rdquo;, &amp;ldquo;disable line wrap&amp;rdquo;, &amp;ldquo;hide avatar&amp;rdquo;&lt;/p>
+&lt;p>&lt;strong>fix:&lt;/strong> bugs in latexpand&lt;/p>
+&lt;p>&lt;strong>fix:&lt;/strong> blank screen issue when scrolling the result&lt;/p>
+&lt;img src="https://www.paperdebugger.com/posts/2.7.4/minimal_mode.png" alt="image" style="width: 50%; border-radius: 0.5rem;" />
+&lt;p>&lt;strong>fix:&lt;/strong> unwanted span in debug mode.&lt;/p></description></item><item><title>v2.0 Paper Score</title><link>/posts/2.0/</link><pubDate>Sun, 15 Jun 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.0/</guid><description>&lt;video width="100%" controls poster="/posts/2.0/preview.png">
 &lt;source src="https://www.paperdebugger.com/posts/2.0/preview.mp4" type="video/mp4">
 Your browser does not support the video tag.
 &lt;/video>
