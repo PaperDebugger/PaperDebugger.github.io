@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on PaperDebugger</title><link>/posts/</link><description>PaperDebugger (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>privacy@paperdebugger.com
-(PaperDebugger)</managingEditor><lastBuildDate>Wed, 30 Jul 2025 12:00:00 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>v2.7.4 Minor Fixes</title><link>/posts/2.7.4/</link><pubDate>Wed, 30 Jul 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.7.4/</guid><description>&lt;p>&lt;strong>feat:&lt;/strong> &amp;ldquo;always minimal mode&amp;rdquo;, &amp;ldquo;disable line wrap&amp;rdquo;, &amp;ldquo;hide avatar&amp;rdquo;&lt;/p>
-&lt;p>&lt;strong>fix:&lt;/strong> bugs in latexpand&lt;/p>
-&lt;p>&lt;strong>fix:&lt;/strong> blank screen issue when scrolling the result&lt;/p>
-&lt;img src="https://www.paperdebugger.com/posts/2.7.4/minimal_mode.png" alt="image" style="width: 50%; border-radius: 0.5rem;" />
-&lt;p>&lt;strong>fix:&lt;/strong> unwanted span in debug mode.&lt;/p></description></item><item><title>v2.0 Paper Score</title><link>/posts/2.0/</link><pubDate>Sun, 15 Jun 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.0/</guid><description>&lt;video width="100%" controls poster="/posts/2.0/preview.png">
-&lt;source src="https://www.paperdebugger.com/posts/2.0/preview.mp4" type="video/mp4">
+(PaperDebugger)</managingEditor><lastBuildDate>Wed, 30 Jul 2025 12:00:00 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>v2.7.4 Minor Fixes</title><link>/posts/2.7.4/</link><pubDate>Wed, 30 Jul 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.7.4/</guid><description>&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; &amp;ldquo;always minimal mode&amp;rdquo;, &amp;ldquo;disable line wrap&amp;rdquo;, &amp;ldquo;hide avatar&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; bugs in latexpand&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; blank screen issue when scrolling the result&lt;/p&gt;
+&lt;img src="https://www.paperdebugger.com/posts/2.7.4/minimal_mode.png" alt="image" style="width: 50%; border-radius: 0.5rem;" /&gt;
+&lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; unwanted span in debug mode.&lt;/p&gt;</description></item><item><title>v2.0 Paper Score</title><link>/posts/2.0/</link><pubDate>Sun, 15 Jun 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.0/</guid><description>&lt;video width="100%" controls poster="/posts/2.0/preview.png"&gt;
+&lt;source src="https://www.paperdebugger.com/posts/2.0/preview.mp4" type="video/mp4"&gt;
 Your browser does not support the video tag.
-&lt;/video>
-&lt;p>&lt;strong>feat&lt;/strong>: PaperScore Infra &lt;a href="https://github.com/PaperDebugger/overleaf/pull/129">@imwithye #129&lt;/a>&lt;/p>
-&lt;p>&lt;strong>feat&lt;/strong>: Streaming API + LLM Function Call &lt;a href="https://github.com/PaperDebugger/overleaf/pull/146">@Junyi-99 #146&lt;/a>&lt;/p>
-&lt;p>&lt;strong>feat&lt;/strong>: Safari Support &lt;a href="https://github.com/PaperDebugger/overleaf/pull/157/commits/8413974b5bec71636cd485cfd5a1b3289934bf63">@Junyi-99 #157&lt;/a>&lt;/p>
-&lt;p>&lt;strong>change&lt;/strong>: New UI/UX Design &lt;a href="https://github.com/PaperDebugger/overleaf/pull/162">@Junyi-99 #162&lt;/a>&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>feat&lt;/strong>: OAuth2.0 Login Support &lt;a href="https://github.com/PaperDebugger/overleaf/pull/152">@Junyi-99 #152&lt;/a>&lt;/p>
-&lt;p>&lt;strong>feat&lt;/strong>: Code Quality Ensurance &lt;a href="https://github.com/PaperDebugger/overleaf/pull/150">@Junyi-99 #146-150&lt;/a>&lt;/p>
-&lt;p>&lt;strong>feat&lt;/strong>: Safari CI/CD &lt;a href="https://github.com/PaperDebugger/overleaf/pull/162">@Junyi-99 #162&lt;/a>&lt;/p>
-&lt;p>&lt;strong>fix&lt;/strong>: Minor Fixes &lt;a href="https://github.com/PaperDebugger/overleaf/pull/161">@Junyi-99 #161&lt;/a>&lt;/p></description></item><item><title>v1.3 Prompt Library</title><link>/posts/1.3/</link><pubDate>Mon, 14 Apr 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/1.3/</guid><description>&lt;p>&lt;strong>feat:&lt;/strong> prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/94">@imwithye #94&lt;/a> &lt;a href="https://github.com/PaperDebugger/overleaf/pull/97">#97&lt;/a>&lt;/p>
-&lt;p>&lt;strong>feat:&lt;/strong> prompt actions in the InputArea &lt;a href="https://github.com/PaperDebugger/overleaf/pull/95">@imwithye #95&lt;/a>&lt;/p>
-&lt;p>&lt;strong>feat:&lt;/strong> model selection in chat &lt;a href="https://github.com/PaperDebugger/overleaf/pull/92">@Bcpeh #92&lt;/a>&lt;/p>
-&lt;img src="https://www.paperdebugger.com/posts/1.3/image.png" alt="image" style="width: 50%" />
-&lt;hr>
-&lt;p>&lt;strong>change:&lt;/strong> new logo &lt;a href="https://github.com/PaperDebugger/overleaf/pull/102">@imwithye #102&lt;/a>&lt;/p>
-&lt;img src="https://www.paperdebugger.com/posts/1.3/logo.png" alt="image" style="width: 50%" />
-&lt;hr>
-&lt;p>&lt;strong>feat:&lt;/strong> user customized prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/108">@Lilliansiyin #108&lt;/a>&lt;/p>
-&lt;img src="https://www.paperdebugger.com/posts/1.3/prompt-library.png" alt="image" style="width: 50%" />
-&lt;hr>
-&lt;p>&lt;strong>feat:&lt;/strong> auto sync if project is outdated &lt;a href="https://github.com/PaperDebugger/overleaf/pull/101">@imwithye #101&lt;/a>&lt;/p>
-&lt;p>&lt;strong>feat:&lt;/strong> settings now synced with cloud &lt;a href="https://github.com/PaperDebugger/overleaf/pull/110">@Bcpeh #110&lt;/a>&lt;/p>
-&lt;p>&lt;strong>feat:&lt;/strong> GoogleLogin now supports account selection &lt;a href="https://github.com/PaperDebugger/overleaf/pull/84">@Bcpeh #84&lt;/a>&lt;/p>
-&lt;p>&lt;strong>fix:&lt;/strong> incorrect message counter &lt;a href="https://github.com/PaperDebugger/overleaf/pull/98">@imwithye #98&lt;/a>&lt;/p>
-&lt;p>&lt;strong>remove:&lt;/strong> &lt;code>pouchdb&lt;/code> in frontend. &lt;a href="https://github.com/PaperDebugger/overleaf/pull/113">@imwithye @Junyi-99 #113&lt;/a>&lt;/p>
-&lt;p>&lt;strong>change:&lt;/strong> &lt;code>obtain&lt;/code> &amp;amp; &lt;code>sync&lt;/code> project to server (from &lt;code>zip&lt;/code> to &lt;code>websocket&lt;/code>)&lt;/p>
-&lt;ul>
-&lt;li>Sync project to server API &lt;a href="https://github.com/PaperDebugger/overleaf/pull/88">@imwithye #88&lt;/a>&lt;/li>
-&lt;li>&lt;code>createSnapshot&lt;/code> for project using &lt;code>websocket&lt;/code> &lt;a href="https://github.com/PaperDebugger/overleaf/pull/89">@Junyi-99 #89&lt;/a>&lt;/li>
-&lt;li>connect&lt;code>sync button&lt;/code> with &lt;code>upsertProject&lt;/code> API &lt;a href="https://github.com/PaperDebugger/overleaf/pull/91">@Lilliansiyin #91&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;p>&lt;a href="https://www.paperdebugger.com/posts/1.3/paperdebugger-chrome-extension-prd.zip">Download&lt;/a>&lt;/p>
-&lt;!-- > **Note:** This is a breaking change. We will release soon. --></description></item><item><title>v1.2.6 Conversaion History</title><link>/posts/1.2.6/</link><pubDate>Sat, 22 Mar 2025 16:49:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/1.2.6/</guid><description>&lt;p>&lt;strong>feat:&lt;/strong> implement conversation api&lt;/p>
-&lt;p>&lt;strong>feat:&lt;/strong> conversation history&lt;/p>
-&lt;p>&lt;strong>fix:&lt;/strong> handle failed in google auth, fix the short toast time&lt;/p>
-&lt;p>&lt;a href="https://github.com/PaperDebugger/overleaf/actions/runs/14007027530/artifacts/2800610409">Download&lt;/a>&lt;/p></description></item></channel></rss>
+&lt;/video&gt;
+&lt;p&gt;&lt;strong&gt;feat&lt;/strong&gt;: PaperScore Infra &lt;a href="https://github.com/PaperDebugger/overleaf/pull/129"&gt;@imwithye #129&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat&lt;/strong&gt;: Streaming API + LLM Function Call &lt;a href="https://github.com/PaperDebugger/overleaf/pull/146"&gt;@Junyi-99 #146&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat&lt;/strong&gt;: Safari Support &lt;a href="https://github.com/PaperDebugger/overleaf/pull/157/commits/8413974b5bec71636cd485cfd5a1b3289934bf63"&gt;@Junyi-99 #157&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;change&lt;/strong&gt;: New UI/UX Design &lt;a href="https://github.com/PaperDebugger/overleaf/pull/162"&gt;@Junyi-99 #162&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;feat&lt;/strong&gt;: OAuth2.0 Login Support &lt;a href="https://github.com/PaperDebugger/overleaf/pull/152"&gt;@Junyi-99 #152&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat&lt;/strong&gt;: Code Quality Ensurance &lt;a href="https://github.com/PaperDebugger/overleaf/pull/150"&gt;@Junyi-99 #146-150&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat&lt;/strong&gt;: Safari CI/CD &lt;a href="https://github.com/PaperDebugger/overleaf/pull/162"&gt;@Junyi-99 #162&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fix&lt;/strong&gt;: Minor Fixes &lt;a href="https://github.com/PaperDebugger/overleaf/pull/161"&gt;@Junyi-99 #161&lt;/a&gt;&lt;/p&gt;</description></item><item><title>v1.3 Prompt Library</title><link>/posts/1.3/</link><pubDate>Mon, 14 Apr 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/1.3/</guid><description>&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/94"&gt;@imwithye #94&lt;/a&gt; &lt;a href="https://github.com/PaperDebugger/overleaf/pull/97"&gt;#97&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; prompt actions in the InputArea &lt;a href="https://github.com/PaperDebugger/overleaf/pull/95"&gt;@imwithye #95&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; model selection in chat &lt;a href="https://github.com/PaperDebugger/overleaf/pull/92"&gt;@Bcpeh #92&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://www.paperdebugger.com/posts/1.3/image.png" alt="image" style="width: 50%" /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;change:&lt;/strong&gt; new logo &lt;a href="https://github.com/PaperDebugger/overleaf/pull/102"&gt;@imwithye #102&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://www.paperdebugger.com/posts/1.3/logo.png" alt="image" style="width: 50%" /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; user customized prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/108"&gt;@Lilliansiyin #108&lt;/a&gt;&lt;/p&gt;
+&lt;img src="https://www.paperdebugger.com/posts/1.3/prompt-library.png" alt="image" style="width: 50%" /&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; auto sync if project is outdated &lt;a href="https://github.com/PaperDebugger/overleaf/pull/101"&gt;@imwithye #101&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; settings now synced with cloud &lt;a href="https://github.com/PaperDebugger/overleaf/pull/110"&gt;@Bcpeh #110&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; GoogleLogin now supports account selection &lt;a href="https://github.com/PaperDebugger/overleaf/pull/84"&gt;@Bcpeh #84&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; incorrect message counter &lt;a href="https://github.com/PaperDebugger/overleaf/pull/98"&gt;@imwithye #98&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;remove:&lt;/strong&gt; &lt;code&gt;pouchdb&lt;/code&gt; in frontend. &lt;a href="https://github.com/PaperDebugger/overleaf/pull/113"&gt;@imwithye @Junyi-99 #113&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;change:&lt;/strong&gt; &lt;code&gt;obtain&lt;/code&gt; &amp;amp; &lt;code&gt;sync&lt;/code&gt; project to server (from &lt;code&gt;zip&lt;/code&gt; to &lt;code&gt;websocket&lt;/code&gt;)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sync project to server API &lt;a href="https://github.com/PaperDebugger/overleaf/pull/88"&gt;@imwithye #88&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;createSnapshot&lt;/code&gt; for project using &lt;code&gt;websocket&lt;/code&gt; &lt;a href="https://github.com/PaperDebugger/overleaf/pull/89"&gt;@Junyi-99 #89&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;connect&lt;code&gt;sync button&lt;/code&gt; with &lt;code&gt;upsertProject&lt;/code&gt; API &lt;a href="https://github.com/PaperDebugger/overleaf/pull/91"&gt;@Lilliansiyin #91&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://www.paperdebugger.com/posts/1.3/paperdebugger-chrome-extension-prd.zip"&gt;Download&lt;/a&gt;&lt;/p&gt;
+&lt;!-- &gt; **Note:** This is a breaking change. We will release soon. --&gt;</description></item><item><title>v1.2.6 Conversaion History</title><link>/posts/1.2.6/</link><pubDate>Sat, 22 Mar 2025 16:49:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/1.2.6/</guid><description>&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; implement conversation api&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; conversation history&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; handle failed in google auth, fix the short toast time&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/PaperDebugger/overleaf/actions/runs/14007027530/artifacts/2800610409"&gt;Download&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
