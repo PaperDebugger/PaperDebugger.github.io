@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on PaperDebugger</title><link>/posts/</link><description>PaperDebugger (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>privacy@paperdebugger.com
-(PaperDebugger)</managingEditor><lastBuildDate>Wed, 30 Jul 2025 12:00:00 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>v2.7.4 Minor Fixes</title><link>/posts/2.7.4/</link><pubDate>Wed, 30 Jul 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.7.4/</guid><description>&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; &amp;ldquo;always minimal mode&amp;rdquo;, &amp;ldquo;disable line wrap&amp;rdquo;, &amp;ldquo;hide avatar&amp;rdquo;&lt;/p&gt;
+(Paper Debugger)</managingEditor><lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>v2.9.1 Open Source Release</title><link>/posts/2.9.1/</link><pubDate>Sat, 30 Aug 2025 00:00:00 +0800</pubDate><author>privacy@paperdebugger.com (Paper Debugger)</author><guid>/posts/2.9.1/</guid><description>&lt;p&gt;Paper Debugger now is open source under AGPL-3.0 license&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/PaperDebugger/PaperDebugger" target="_blank"&gt;&lt;img src="https://www.paperdebugger.com/posts/2.9.1/branding.png" alt="image" style="width: 100%; border-radius: 0.5rem;" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Paper Debugger now supports &lt;strong&gt;self-hosted&lt;/strong&gt; deployment. You can use our compiled &lt;a href="https://chromewebstore.google.com/detail/paperdebugger/dfkedikhakpapbfcnbpmfhpklndgiaog"&gt;Chrome Extension&lt;/a&gt; and set your &lt;a href="https://github.com/PaperDebugger/paperdebugger#custom-endpoint-configuration"&gt;backend endpoint&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;🐛 Bug Fixes&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed word wrapping issues for long code blocks and &lt;div&gt; elements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🛠 Code Refactoring&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Streamlined internal structure for better maintainability.&lt;/li&gt;
+&lt;li&gt;Optimized draggable zones for smoother interactions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🚀 New Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;User-level instructions: personalize the experience with tailored guidance.&lt;/li&gt;
+&lt;li&gt;Project-level instructions: define instructions that apply across projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;🧹 Codebase Cleanup&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed ingress, replaced with Cloudflared integration.&lt;/li&gt;
+&lt;li&gt;Deleted unused Go code.&lt;/li&gt;
+&lt;li&gt;Enhanced CI/CD pipeline for faster, more reliable deployments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;📖 Documentation&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Improved setup guide, verified on a fresh Ubuntu installation.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>v2.7.4 Minor Fixes</title><link>/posts/2.7.4/</link><pubDate>Wed, 30 Jul 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (Paper Debugger)</author><guid>/posts/2.7.4/</guid><description>&lt;p&gt;Paper Debugger v2.7.4 released.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; &amp;ldquo;always minimal mode&amp;rdquo;, &amp;ldquo;disable line wrap&amp;rdquo;, &amp;ldquo;hide avatar&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; bugs in latexpand&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; blank screen issue when scrolling the result&lt;/p&gt;
 &lt;img src="https://www.paperdebugger.com/posts/2.7.4/minimal_mode.png" alt="image" style="width: 50%; border-radius: 0.5rem;" /&gt;
-&lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; unwanted span in debug mode.&lt;/p&gt;</description></item><item><title>v2.0 Paper Score</title><link>/posts/2.0/</link><pubDate>Sun, 15 Jun 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/2.0/</guid><description>&lt;video width="100%" controls poster="/posts/2.0/preview.png"&gt;
+&lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; unwanted span in debug mode.&lt;/p&gt;</description></item><item><title>v2.0 Paper Score</title><link>/posts/2.0/</link><pubDate>Sun, 15 Jun 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (Paper Debugger)</author><guid>/posts/2.0/</guid><description>&lt;video width="100%" controls poster="/posts/2.0/preview.png"&gt;
 &lt;source src="https://www.paperdebugger.com/posts/2.0/preview.mp4" type="video/mp4"&gt;
 Your browser does not support the video tag.
 &lt;/video&gt;
@@ -15,7 +42,7 @@ Your browser does not support the video tag.
 &lt;p&gt;&lt;strong&gt;feat&lt;/strong&gt;: OAuth2.0 Login Support &lt;a href="https://github.com/PaperDebugger/overleaf/pull/152"&gt;@Junyi-99 #152&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;feat&lt;/strong&gt;: Code Quality Ensurance &lt;a href="https://github.com/PaperDebugger/overleaf/pull/150"&gt;@Junyi-99 #146-150&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;feat&lt;/strong&gt;: Safari CI/CD &lt;a href="https://github.com/PaperDebugger/overleaf/pull/162"&gt;@Junyi-99 #162&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;fix&lt;/strong&gt;: Minor Fixes &lt;a href="https://github.com/PaperDebugger/overleaf/pull/161"&gt;@Junyi-99 #161&lt;/a&gt;&lt;/p&gt;</description></item><item><title>v1.3 Prompt Library</title><link>/posts/1.3/</link><pubDate>Mon, 14 Apr 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/1.3/</guid><description>&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/94"&gt;@imwithye #94&lt;/a&gt; &lt;a href="https://github.com/PaperDebugger/overleaf/pull/97"&gt;#97&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fix&lt;/strong&gt;: Minor Fixes &lt;a href="https://github.com/PaperDebugger/overleaf/pull/161"&gt;@Junyi-99 #161&lt;/a&gt;&lt;/p&gt;</description></item><item><title>v1.3 Prompt Library</title><link>/posts/1.3/</link><pubDate>Mon, 14 Apr 2025 12:00:00 +0800</pubDate><author>privacy@paperdebugger.com (Paper Debugger)</author><guid>/posts/1.3/</guid><description>&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; prompt library &lt;a href="https://github.com/PaperDebugger/overleaf/pull/94"&gt;@imwithye #94&lt;/a&gt; &lt;a href="https://github.com/PaperDebugger/overleaf/pull/97"&gt;#97&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; prompt actions in the InputArea &lt;a href="https://github.com/PaperDebugger/overleaf/pull/95"&gt;@imwithye #95&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; model selection in chat &lt;a href="https://github.com/PaperDebugger/overleaf/pull/92"&gt;@Bcpeh #92&lt;/a&gt;&lt;/p&gt;
 &lt;img src="https://www.paperdebugger.com/posts/1.3/image.png" alt="image" style="width: 50%" /&gt;
@@ -38,7 +65,7 @@ Your browser does not support the video tag.
 &lt;li&gt;connect&lt;code&gt;sync button&lt;/code&gt; with &lt;code&gt;upsertProject&lt;/code&gt; API &lt;a href="https://github.com/PaperDebugger/overleaf/pull/91"&gt;@Lilliansiyin #91&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a href="https://www.paperdebugger.com/posts/1.3/paperdebugger-chrome-extension-prd.zip"&gt;Download&lt;/a&gt;&lt;/p&gt;
-&lt;!-- &gt; **Note:** This is a breaking change. We will release soon. --&gt;</description></item><item><title>v1.2.6 Conversaion History</title><link>/posts/1.2.6/</link><pubDate>Sat, 22 Mar 2025 16:49:00 +0800</pubDate><author>privacy@paperdebugger.com (PaperDebugger)</author><guid>/posts/1.2.6/</guid><description>&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; implement conversation api&lt;/p&gt;
+&lt;!-- &gt; **Note:** This is a breaking change. We will release soon. --&gt;</description></item><item><title>v1.2.6 Conversaion History</title><link>/posts/1.2.6/</link><pubDate>Sat, 22 Mar 2025 16:49:00 +0800</pubDate><author>privacy@paperdebugger.com (Paper Debugger)</author><guid>/posts/1.2.6/</guid><description>&lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; implement conversation api&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;feat:&lt;/strong&gt; conversation history&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;fix:&lt;/strong&gt; handle failed in google auth, fix the short toast time&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://github.com/PaperDebugger/overleaf/actions/runs/14007027530/artifacts/2800610409"&gt;Download&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
